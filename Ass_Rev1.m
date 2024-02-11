@@ -123,8 +123,9 @@ title('Total electricity demand range in different priod of time (kW)');
 
 Invest_Turbine = 10115 * N_Turbines; %dollar
 Invest_HP = 5500;
+Invest_Redesign = 4000;
 
-TotalInvest = Invest_HP + Invest_Turbine;
+TotalInvest = Invest_HP + Invest_Turbine + Invest_Redesign;
 
 PriceDemand_Elec = 0.42;
 PriceDemand_Gas = 2.1;
