@@ -123,7 +123,7 @@ title('Total electricity demand range in different priod of time (kW)');
 
 Invest_Turbine = 10115 * N_Turbines; %dollar
 Invest_HP = 5500;
-Invest_Redesign = 4000;
+Invest_Redesign = 1000; %Installation cost assumption
 
 TotalInvest = Invest_HP + Invest_Turbine + Invest_Redesign;
 
