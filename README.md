@@ -159,5 +159,3 @@ end
 
 fprintf("Pay-back Period, %d years\n", PayBackPeriod);
 ```
-
-This step-by-step analysis elucidates the process of data processing, calculation, visualization, and economic assessment conducted in the MATLAB code, offering a comprehensive understanding of energy efficiency and renewable integration in Denmark.
